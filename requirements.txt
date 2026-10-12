@@ -1,7 +1,7 @@
 easydict
 tabulate
 opencv-python
-torch==1.9.1
+torch==2.13.0
 torchvision==0.10.1
 torchaudio==0.9.1
 timm
